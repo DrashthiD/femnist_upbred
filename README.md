@@ -1,3 +1,5 @@
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
 |  | UPBReD |  | 2PUPBRed |  | FedAvg |  | FedAvg_Eq |  | FedAvg_Random |  |
 | Number of Agents | Mean | Std_dev | Mean | Std_dev | Mean | Std_dev | Mean | Std_dev | Mean | Std_dev |
 | 10 | 11.48497186 | 0.08913584072 | 11.49910641 | 0.0008633057784 | 11.53130065 | 0.4064259083 | 11.38900501 | 0.2490568092 | 1.7831276 | 4.428459697 |
